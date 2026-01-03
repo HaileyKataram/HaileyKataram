@@ -100,25 +100,25 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HaileyKataram&theme=jolly&no-frame=false&no-bg=true&margin-w=4)
 [![](https://visitcount.itsvg.in/api?id=HaileyKataram&icon=6&color=0)](https://visitcount.itsvg.in)
-
 ## 📈 Contribution Metrics
-- 👀 Profile Views  
-- 👥 GitHub Followers  
-- ⭐ GitHub Stars  
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge)
 
 ---
 
 ## 📊 Detailed Activity
-- Active contributor across multiple repositories
-- Consistent commits in AI/ML, backend systems, and problem-solving projects
-- Regular hands-on practice through LeetCode and research-driven implementations
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true)
 
 ---
 
 ## 💻 Profile Summary
-- Strong focus on AI/ML, full-stack development, and scalable software systems  
-- Experience with real-world applications, research prototypes, and automation tools  
-- Maintains clean repositories with practical, well-documented implementations  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -134,10 +134,9 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailey-kataram/)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hailey-kataram)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hailey.kataram@gmail.com)
 
 ---
 
-⭐ Built with 💙 | Passion for Clean Code & Impactful Software
-
+⭐ Built with 💙 | Focused on Clean Code & Impactful Software
