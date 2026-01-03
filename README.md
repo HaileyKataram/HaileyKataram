@@ -1,3 +1,25 @@
+<h1 align="center">Hey there 👋, I'm Hailey Kataram</h1>
+
+<p align="center">
+  Software Engineering Student • AI/ML & Full-Stack Developer • Building Intelligent Systems 🚀
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;Building+Scalable+Software" />
+</p>
+
+<p align="center">
+  🤖 AI • 🌐 Full-Stack • ☁️ Cloud • 📱 Mobile
+</p>
+
+<p align="center">
+  <a href="#-about-me">About Me</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-profile-summary">Stats</a> •
+  <a href="#-connect-with-me">Connect</a>
+</p>
+
+
 ## 🧠 About Me
 🎓 Integrated M.Tech in Software Engineering @ VIT Vellore  
 🤖 Exploring the intersection of AI, Machine Learning, and Full-Stack Systems  
