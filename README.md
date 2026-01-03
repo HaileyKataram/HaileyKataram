@@ -39,8 +39,7 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 ## 📱 Mobile & App Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)
-
----
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ## 🧠 AI / Machine Learning / Data Science
 
