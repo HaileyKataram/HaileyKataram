@@ -17,7 +17,7 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge\&logo=kotlin\&logoColor=white)
 
----
+
 
 ## 🌐 Web Technologies
 
@@ -27,7 +27,6 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge\&logo=chart.js\&logoColor=white)
 
----
 
 ## ⚙️ Backend Frameworks & APIs
 
@@ -36,7 +35,6 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white)
 
----
 
 ## 📱 Mobile & App Development
 
@@ -54,7 +52,6 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge\&logo=numpy\&logoColor=blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
----
 
 ## 🗄️ Databases
 
@@ -63,7 +60,6 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
----
 
 ## ☁️ Cloud Platforms
 
@@ -72,7 +68,6 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge\&logo=google-cloud\&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 
----
 
 ## 🔧 DevOps, Big Data & Tools
 
@@ -80,15 +75,12 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge\&logo=jenkins\&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
 
----
 
 ## 🔁 Version Control & Collaboration
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge\&logo=gitlab\&logoColor=white)
-
----
 
 
 
@@ -132,13 +124,12 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 🌐 Open Source Contributions  
 💡 Tech Talks & Mentorship  
 
----
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailey-kataram/)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hailey.kataram@gmail.com)
 
----
+
 
 ⭐ Built with 💙 | Focused on Clean Code & Impactful Software
