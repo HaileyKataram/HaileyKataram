@@ -100,27 +100,28 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HaileyKataram&theme=jolly&no-frame=false&no-bg=true&margin-w=4)
 [![](https://visitcount.itsvg.in/api?id=HaileyKataram&icon=6&color=0)](https://visitcount.itsvg.in)
+
+
 ## 📈 Contribution Metrics
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=HaileyKataram&style=for-the-badge&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/HaileyKataram?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/HaileyKataram?style=for-the-badge)
 
 ---
 
 ## 📊 Detailed Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HaileyKataram&theme=react-dark&hide_border=true)
 
 ---
 
 ## 💻 Profile Summary
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaileyKataram&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HaileyKataram&layout=compact&theme=tokyonight&hide_border=true)
 
----
 
 ## 📢 Let’s Connect & Collaborate!
 
