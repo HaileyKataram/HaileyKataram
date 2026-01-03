@@ -95,19 +95,6 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 
 
-## 🔧 DevOps, Big Data & Tools
-
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge\&logo=apachespark\&logoColor=black)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
-
-
-## 🔁 Version Control & Collaboration
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge\&logo=gitlab\&logoColor=white)
-
 
 
 # 📊 GitHub Stats:
