@@ -117,12 +117,13 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 ## 💻 Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaileyKataram&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HaileyKataram&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaileyKataram&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HaileyKataram&layout=compact&theme=tokyonight" />
 </p>
+s
 
 
 
