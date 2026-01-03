@@ -2,8 +2,10 @@
 I am a Software Engineer in training, currently pursuing an Integrated M.Tech in Software Engineering at Vellore Institute of Technology, Vellore. I have a strong interest in building scalable machine learning applications, deep learning systems, and full-stack web solutions that are reliable, efficient, and impact-driven.<br><br>My experience includes working on real-world datasets, developing ML models across regression, classification, and clustering tasks, and applying techniques such as feature engineering, PCA, and ensemble methods. Alongside AI development, I design and build end-to-end web applications, integrating robust backends with clean, user-focused frontends.<br><br>I enjoy transforming ideas into production-ready systems by combining AI, web technologies, and cloud platforms. I am continuously exploring full-stack development, system design, and cloud architecture, with a strong emphasis on clean code, maintainability, and scalable software engineering practices.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hailey kataram) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hailey.kataram@gmail.com) 
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailey-kataram/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hailey.kataram@gmail.com)
+
 
 # 💻 Tech Stack:
 
@@ -97,8 +99,6 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HaileyKataram&theme=jolly&no-frame=false&no-bg=true&margin-w=4)
-
----
 [![](https://visitcount.itsvg.in/api?id=HaileyKataram&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
