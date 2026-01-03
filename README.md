@@ -1,5 +1,9 @@
-# 💫 About Me:
-I am a Software Engineer in training, currently pursuing an Integrated M.Tech in Software Engineering at Vellore Institute of Technology, Vellore. I have a strong interest in building scalable machine learning applications, deep learning systems, and full-stack web solutions that are reliable, efficient, and impact-driven.<br><br>My experience includes working on real-world datasets, developing ML models across regression, classification, and clustering tasks, and applying techniques such as feature engineering, PCA, and ensemble methods. Alongside AI development, I design and build end-to-end web applications, integrating robust backends with clean, user-focused frontends.<br><br>I enjoy transforming ideas into production-ready systems by combining AI, web technologies, and cloud platforms. I am continuously exploring full-stack development, system design, and cloud architecture, with a strong emphasis on clean code, maintainability, and scalable software engineering practices.
+## 🧠 About Me
+🎓 Integrated M.Tech in Software Engineering @ VIT Vellore  
+🤖 Exploring the intersection of AI, Machine Learning, and Full-Stack Systems  
+🔭 Currently working on intelligent web & mobile applications and ML-driven solutions  
+🌱 Learning: Advanced Deep Learning, Cloud Architecture, System Design  
+⚡ Passionate about building scalable systems, clean code, and impact-driven software
 
 
 ## 🌐 Socials
