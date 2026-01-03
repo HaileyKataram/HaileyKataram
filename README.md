@@ -108,7 +108,6 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 ![Followers](https://img.shields.io/github/followers/HaileyKataram?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/HaileyKataram?style=for-the-badge)
 
----
 
 ## 📊 Detailed Activity
 
@@ -123,9 +122,6 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HaileyKataram&layout=compact&theme=tokyonight" />
 </p>
-s
-
-
 
 
 ## 📢 Let’s Connect & Collaborate!
