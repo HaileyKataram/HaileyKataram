@@ -101,4 +101,43 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 ![](https://github-profile-trophy.vercel.app/?username=HaileyKataram&theme=jolly&no-frame=false&no-bg=true&margin-w=4)
 [![](https://visitcount.itsvg.in/api?id=HaileyKataram&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 Contribution Metrics
+- 👀 Profile Views  
+- 👥 GitHub Followers  
+- ⭐ GitHub Stars  
+
+---
+
+## 📊 Detailed Activity
+- Active contributor across multiple repositories
+- Consistent commits in AI/ML, backend systems, and problem-solving projects
+- Regular hands-on practice through LeetCode and research-driven implementations
+
+---
+
+## 💻 Profile Summary
+- Strong focus on AI/ML, full-stack development, and scalable software systems  
+- Experience with real-world applications, research prototypes, and automation tools  
+- Maintains clean repositories with practical, well-documented implementations  
+
+---
+
+## 📢 Let’s Connect & Collaborate!
+
+### 💬 I’m Always Open To:
+🚀 Innovative Project Collaborations  
+🧠 AI/ML Research Discussions  
+🌐 Open Source Contributions  
+💡 Tech Talks & Mentorship  
+
+---
+
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailey-kataram/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hailey-kataram)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hailey.kataram@gmail.com)
+
+---
+
+⭐ Built with 💙 | Passion for Clean Code & Impactful Software
+
