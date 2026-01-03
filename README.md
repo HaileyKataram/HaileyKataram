@@ -114,13 +114,19 @@ I am a Software Engineer in training, currently pursuing an Integrated M.Tech in
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HaileyKataram&theme=react-dark&hide_border=true)
 
----
-
 ## 💻 Profile Summary
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaileyKataram&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=HaileyKataram&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaileyKataram&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HaileyKataram&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ## 📢 Let’s Connect & Collaborate!
